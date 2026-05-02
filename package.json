@@ -1,0 +1,15 @@
+{
+  "name": "url-shortener-lambda",
+  "version": "1.0.0",
+  "description": "Lambda handlers for URL shortener — create, redirect, list",
+  "main": "create.js",
+  "engines": { "node": ">=20.x" },
+  "scripts": {
+    "package": "zip -r ../lambda.zip . --exclude '*.test.js' --exclude '.git/*'",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.600.0",
+    "@aws-sdk/util-dynamodb": "^3.600.0"
+  }
+}
