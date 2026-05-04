@@ -1,4 +1,4 @@
- javascript/**
+/**
  * Lambda: GET /admin/links
  * Returns all short links with click counts, sorted by clicks desc.
  *
