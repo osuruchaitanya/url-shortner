@@ -96,7 +96,7 @@ https://st8wy7wez5.execute-api.ap-south-1.amazonaws.com/prod
 > Add your screenshot here:  
 > **How to take:** AWS Console → DynamoDB → Tables → Screenshot
 
-![DynamoDB Tables](screenshots/dynamodb-tables.png)
+![DynamoDB Tables](https://github.com/osuruchaitanya/url-shortner/blob/c9a56a36fcaa4962b86b67be1e41f1ba9b3e312f/Screenshot%202026-05-05%20113244.png)
 
 **Tables Created:**
 
