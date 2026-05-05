@@ -177,7 +177,7 @@ x-click-count: 3
 > Add your screenshot here:  
 > **How to take:** Browser → Open /admin/links URL → Screenshot
 
-![List Links Test](screenshots/api-list-test.png)
+![List Links Test](https://github.com/osuruchaitanya/url-shortner/blob/e7d1a45d19681a3bc85776211ed07d9d89d1d090/Screenshot%202026-05-05%20114322.png)
 
 **Test URL:**
 ```
