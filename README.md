@@ -112,7 +112,7 @@ https://st8wy7wez5.execute-api.ap-south-1.amazonaws.com/prod
 > Add your screenshot here:  
 > **How to take:** AWS Console → Lambda → Functions → Screenshot
 
-![Lambda Functions](screenshots/lambda-functions.png)
+![Lambda Functions](https://github.com/osuruchaitanya/url-shortner/blob/75765a0a353986a2157d8faf4b3fd6bda53a24a7/Screenshot%202026-05-05%20113448.png)
 
 **Functions Deployed:**
 
