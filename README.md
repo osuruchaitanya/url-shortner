@@ -129,7 +129,7 @@ https://st8wy7wez5.execute-api.ap-south-1.amazonaws.com/prod
 > Add your screenshot here:  
 > **How to take:** CloudShell → Run curl POST → Screenshot
 
-![Create Link Test](screenshots/api-create-test.png)
+![Create Link Test](https://github.com/osuruchaitanya/url-shortner/blob/ef8052fb42927b0c9443cb281bd7b8422d1854ab/Screenshot%202026-05-05%20113722.png)
 
 **Test Command:**
 ```bash
