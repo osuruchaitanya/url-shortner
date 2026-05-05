@@ -319,9 +319,4 @@ curl -X DELETE https://st8wy7wez5.execute-api.ap-south-1.amazonaws.com/prod/link
 | AWS S3 | Static website hosting |
 | AWS CloudWatch | Logs and monitoring |
 
-
 ---
-
-## 📄 License
-
-MIT License — Free to use and modify
