@@ -52,7 +52,7 @@
 > Add your screenshot here:  
 > **How to take:** Open S3 website URL in browser → Press `Win + Shift + S` → Save as `s3-frontend.png`
 
-
+![image](https://github.com/osuruchaitanya/url-shortner/blob/8ee1d7ea0aab30ff7137a909f967b1e1a06c74bb/Screenshot%202026-05-05%20111407.png)
 ![S3 Frontend UI](https://github.com/osuruchaitanya/url-shortner/blob/f59186d4ab9c9a568436b09b9ace30b68eeb10a2/Screenshot%202026-05-05%20111510.png)
 
 
