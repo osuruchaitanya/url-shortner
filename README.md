@@ -51,9 +51,10 @@
 
 > Add your screenshot here:  
 > **How to take:** Open S3 website URL in browser → Press `Win + Shift + S` → Save as `s3-frontend.png`
-> ![image](Screenshot 2026-05-05 111510.png)
+
 
 ![S3 Frontend UI](screenshots/s3-frontend.png)
+ ![image](Screenshot 2026-05-05 111510.png)
 
 **Steps to add screenshot:**
 ```
