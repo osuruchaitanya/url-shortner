@@ -156,7 +156,7 @@ curl -X POST https://st8wy7wez5.execute-api.ap-south-1.amazonaws.com/prod/links 
 > Add your screenshot here:  
 > **How to take:** CloudShell → Run curl -v /{code} → Screenshot
 
-![Redirect Test](screenshots/api-redirect-test.png)
+![Redirect Test](https://github.com/osuruchaitanya/url-shortner/blob/6e09509c8939c23ef949e0006f49942f3dac0807/Screenshot%202026-05-05%20113954.png)
 
 **Test Command:**
 ```bash
