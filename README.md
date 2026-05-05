@@ -73,7 +73,7 @@
 > Add your screenshot here:  
 > **How to take:** AWS Console → API Gateway → Routes → Screenshot
 
-![API Gateway Routes](screenshots/api-gateway-routes.png)
+![API Gateway Routes](https://github.com/osuruchaitanya/url-shortner/blob/a341eae3ba4206c3e09b86909ff25d9995b85e90/Screenshot%202026-05-05%20113019.png)
 
 **API Base URL:**
 ```
