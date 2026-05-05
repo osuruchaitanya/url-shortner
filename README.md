@@ -209,7 +209,7 @@ https://st8wy7wez5.execute-api.ap-south-1.amazonaws.com/prod/admin/links
 > Add your screenshot here:  
 > **How to take:** AWS Console → CloudWatch → Log groups → Lambda logs → Screenshot
 
-![CloudWatch Logs](screenshots/cloudwatch-logs.png)
+![CloudWatch Logs](https://github.com/osuruchaitanya/url-shortner/blob/18d9ab12e15f6166da61199e602e49f220d38ed8/Screenshot%202026-05-05%20114656.png)
 
 **Log Groups:**
 ```
